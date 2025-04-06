@@ -72,7 +72,7 @@ class Consumer extends Thread {
     }
 }
 
-public class ProdutorConsumidor {
+public class Atividade_2 {
     public static void main(String[] args) {
         int bufferSize = 5; 
         Buffer buffer = new Buffer(bufferSize);
